@@ -23,9 +23,6 @@ The project will examine trends in traffic accidents and driving licenses, in or
 <!-- Outside Research
 Conclusions and Recommendation -->
  
-
-
-
 ### Data dictionary
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -42,7 +39,9 @@ Conclusions and Recommendation -->
 |latitude_accidents|object|Driving_Licenses|This column present the latitude geographic coordinate of place the driving licenses issued| 
 |longitude_accidents|object|Driving_Licenses|This column present the longitude geographic coordinate of place the driving licenses issued| 
 
+### Blog:
+
+[تحليل حوادث المرور واصدار رخص القيادة في السعودية](https://aseel.tech/p/0cf5ecc8-2bd5-49c7-9733-86ebe5f03053/)
 
 ### REMEMBER:
-
-This is a learning environment and you are encouraged to try new things, even if they end up failing. While this rubric outlines what we look for in a _good_ project, it is up to you to go above and beyond to create a _great_ project. **Learn from your failures and you'll be prepared to succeed in the workforce**.
+**Learn from your failures and you'll be prepared to succeed in the workforce**.
