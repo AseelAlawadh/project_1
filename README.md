@@ -4,15 +4,13 @@
 
 ### Traffic accetents & Driving leciesnes Analysis
 
-#### Problem statemen
+### Problem statemen
 
 This project aims to help with tracks driving licenses issued in Saudi Arabia and traffic accidents and gives policy recommendations that are best to help reduce injuries and casualties on the road.
 
 
-Contents:
-You can see the source for the accident data [here](https://datasource.kapsarc.org/explore/dataset/saudi-arabia-traffic-accidents-and-casualties-injured-dead-2008/), and the source for the license data [here](https://datasource.kapsarc.org/explore/dataset/saudi-arabia-traffic-accidents-and-casualties-injured-dead-2008/). **Contents:**
 
-#### Executive Summary
+### Executive Summary
 **Methodology:**
 The project will examine trends in traffic accidents and driving licenses, in order to identify states that regions and time of accidents happened 
 
